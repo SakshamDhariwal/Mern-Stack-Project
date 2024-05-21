@@ -1,0 +1,232 @@
+#container{
+
+    height: 40px;
+    color: rgb(75, 75, 81);
+    
+}
+a{
+    margin-left: 100px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(227, 238, 239);
+    
+}
+button{
+    margin-top: 25px;
+}
+a:hover{
+    background-color: midnightblue;
+    color: cyan ;
+    border-radius: 30%;
+}
+button:hover{
+    background-color: midnightblue;
+    color: yellow;
+    border-radius: 30%;
+    
+}
+body{
+    background: url(/wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    color: aliceblue;
+    margin-left: 700px;
+    margin-top: 100px;
+    font-size: 40px;
+    
+}
+input{
+    margin-left: 740px;
+    font-size: 15px;
+}
+a{
+    
+}
+h1:hover{
+    color: pink;
+}
+.inc1{
+    margin-left: 775px;
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc2{
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc3{
+    margin-left: 775px;
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc4{
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc5{
+    margin-left: 775px;
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc6{
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc8{
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc10{
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc12{
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc14{
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc16{
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc18{
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc20{
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc7{
+    margin-left: 775px;
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc9{
+    margin-left: 775px;
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc11{
+    margin-left: 775px;
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc13{
+    margin-left: 775px;
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc15{
+    margin-left: 775px;
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc17{
+    margin-left: 775px;
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.inc19{
+    margin-left: 775px;
+    border-radius: 20%;
+    font-weight: bold;
+    padding: 5px;
+}
+.iu{
+    margin-left: 760px;
+    font-weight: bold;
+    
+}
+.ui{
+    margin-left: 760px;
+    font-weight: bold;
+}
+.sd{
+    margin-left: 760px;
+    font-weight: bold;
+}
+.df{
+    margin-left: 760px;
+    font-weight: bold;
+}
+.qw{
+    margin-left: 760px;
+    font-weight: bold;
+}
+.fg{
+    margin-left: 760px;
+    font-weight: bold;
+}
+.hj{
+    margin-left: 760px;
+    font-weight: bold;
+}
+.rt{
+    margin-left: 760px;
+    font-weight: bold;
+}
+.yg{
+    margin-left: 760px;
+    font-weight: bold;
+}
+.lk{
+    margin-left: 760px;
+    font-weight: bold;
+}
+.dt{
+    margin-left: 100px;
+}
+.go{
+    margin-left: 120px;
+}
+.it{
+    margin-left: 100px;
+}
+.pp{
+    margin-left: 83px;
+}
+.pb{
+    margin-left: 89px;
+}
+.hm{
+    margin-left: 122px;
+}
+.st{
+    margin-left: 126px;
+}
+.bd{
+    margin-left: 138px;
+}
+.il{
+    margin-left: 140px;
+}
+.lo{
+    margin-left: 143px;
+}
